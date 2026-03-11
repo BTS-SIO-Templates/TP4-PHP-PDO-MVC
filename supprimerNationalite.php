@@ -1,4 +1,4 @@
-<?php include "header.php";
+<?php
 include "connexionPdo.php";
 $num=$_GET['num'];
 
